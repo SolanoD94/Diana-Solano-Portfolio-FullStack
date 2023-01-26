@@ -31,7 +31,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 ## Screenshot
-
+![PortfolioScreen-1](https://user-images.githubusercontent.com/117420563/214721099-8405e91a-1d35-4034-be89-1e67aef1d64a.png)
+![PortfolioScreen-2](https://user-images.githubusercontent.com/117420563/214720893-aee3076c-c011-4e7f-ac6b-0018615b085a.png)
+![PortfolioScreen-3](https://user-images.githubusercontent.com/117420563/214720922-8a2538a8-ae0d-494f-8a8c-3428e6a56bfa.png)
+![PortfolioScreen-4](https://user-images.githubusercontent.com/117420563/214720908-53dd54c5-47b8-49a6-8316-012bef478ab8.png)
 
 
 ## Deployed Link
