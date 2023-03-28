@@ -69,56 +69,8 @@
     background-color: var(--background);
 }
 
-.projects{
-    background-color:var(--yellow);
-}
-.projects h2{
-    text-align: center;
-    background-color:var(--yellow);
-    margin: 5px;
-    padding: 3%;
-}
-
-.projects-1{
-    display: flex;
-    flex-wrap: nowrap;
-    padding: 0% 5%;
-    background-color: var(--yellow);
-    gap: 1rem;
-}
-.grafitty{
-    display: block;
-    width: 100%;
+.card{
     height: 100%;
-}
-
-.projects-1 a:hover {
-    translate: 0px;
-    transform: scale(1.1);
-}
-
-.projectImg{
-    display: block;
-    width: 100%;
-    height: auto;
-    
-}
-
-.projects p{
-    width: 100%;
-    text-align: center;
-    padding: 5% 0px;
-    background-color: var(--yellow);
-    font-size: larger;
-}
-
-.projects h4{
-    width: 100%;
-    text-align: center;
-    padding: 0px;
-    font-weight: lighter;
-    font-size: 16px;
-    background-color: none;
 }
 
 h1{
@@ -217,7 +169,7 @@ footer{
 }
 
 @media screen and (max-width: 992px){
-    header, ul, li{;
+    header, ul, li{
         font-size: large;
     }
     h1{
@@ -234,28 +186,16 @@ footer{
     .aboutMe3{
         order: 1;
     }
-    .projects-1{
-        justify-content: center;
-        flex-wrap: wrap;
-    }
 
     .projectImg{
         display: block;
         width: 50%;
         height: auto;
     }
-    .grafitty{
-        justify-content: center;
-        display: block;
-        width: 50%;
-        height: auto;
-        margin-left: 25%;
-        
-    }
 }
 
 @media screen and (max-width: 540px){
-    header, ul, li{;
+    header, ul, li{
         flex-direction: column;
         font-size: large;
     }
@@ -280,12 +220,5 @@ footer{
     }
     .aboutMe4{
         padding: 50px;
-    }
-
-    .projects-1{
-        justify-content: center;
-    }
-    .grafitty{
-        margin-left: 25%;
     }
 }
